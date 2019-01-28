@@ -14,7 +14,7 @@ Getting and Cleaning Data Peer-Graded Assignment
 4. Analysis R Script
 
 
-##Review Criteria
+###Review Criteria
 
 Goal | Item | Link to Item
 --- | --- | ---
