@@ -15,10 +15,11 @@ Getting and Cleaning Data Peer-Graded Assignment
 
 
 ##Review Criteria
+
 Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R ScriptLink](https://github.com/jlalhuber/Getting-and-Cleaning-Data/blob/master/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/jlalhuber/Getting-and-Cleaning-Data/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/jlalhuber/Getting-and-Cleaning-Data "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/jlalhuber/Getting-and-Cleaning-Data/blob/master/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/jlalhuber/Getting-and-Cleaning-Data/blob/master/README.md "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/jlalhuber/Getting-and-Cleaning-Data/blob/master/ReadMe.md "README.md")
